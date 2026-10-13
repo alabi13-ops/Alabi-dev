@@ -101,8 +101,8 @@ export const projects = [
     description:
       "Ce portfolio : nom tapé touche par touche, projets animés au scroll, stack en clavier interactif.",
     tech: ["React", "Tailwind", "GSAP"],
-    github: null, // ajoute ici le lien du dépôt GitHub
-    demo: null, // ajoute ici le lien du site en ligne
+    github: "https://github.com/alabi13-ops/Alabi-dev.git",
+    demo: "https://alabi-dev.vercel.app/",
   },
 ];
 
